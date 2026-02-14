@@ -21,7 +21,7 @@ yesBtn.addEventListener("click", () => {
         heartLoader.style.display = "none";
         // Aquí puedes cambiar la imagen y el texto final
         gifResult.src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVyM29rYm9wZGxuZjQwdTVhYXN5dXdwMndtYnFrdGpobGR1OGM5NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yOgsDxmKFiTpBkATwG/giphy.gif";
-        questionText.innerText = "I love u so much <3"
+        questionText.innerText = "I love u so much <3, https://surl.lu/abxjuk" 
     }, 3000);
 
     heartLoader.style.display = "inherit";
